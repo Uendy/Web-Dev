@@ -1,15 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Q01_Basic_Stack_Operations
+public class Program
 {
-    class Program
+    public static void Main()
     {
-        static void Main(string[] args)
-        {
-        }
+        int push = int.Parse(Console.ReadLine());
+        int pop = int.Parse(Console.ReadLine());
+        int find = int.Parse(Console.ReadLine());
+
+
     }
 }
