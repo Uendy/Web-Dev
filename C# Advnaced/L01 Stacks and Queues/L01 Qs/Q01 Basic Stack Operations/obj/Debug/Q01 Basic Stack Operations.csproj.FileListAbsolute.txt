@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q01 Basic Stack Operations\bin\Debug\Q01 Basic Stack Operations.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q01 Basic Stack Operations\bin\Debug\Q01 Basic Stack Operations.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q01 Basic Stack Operations\bin\Debug\Q01 Basic Stack Operations.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q01 Basic Stack Operations\obj\Debug\Q01 Basic Stack Operations.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q01 Basic Stack Operations\obj\Debug\Q01 Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q01 Basic Stack Operations\obj\Debug\Q01 Basic Stack Operations.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q01 Basic Stack Operations\obj\Debug\Q01 Basic Stack Operations.pdb

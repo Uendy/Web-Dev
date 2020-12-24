@@ -1,0 +1,6 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q03 Maximum and Minimum Element\bin\Debug\Q03 Maximum and Minimum Element.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q03 Maximum and Minimum Element\bin\Debug\Q03 Maximum and Minimum Element.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q03 Maximum and Minimum Element\bin\Debug\Q03 Maximum and Minimum Element.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q03 Maximum and Minimum Element\obj\Debug\Q03 Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q03 Maximum and Minimum Element\obj\Debug\Q03 Maximum and Minimum Element.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q03 Maximum and Minimum Element\obj\Debug\Q03 Maximum and Minimum Element.pdb
