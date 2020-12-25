@@ -1,0 +1,6 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q06 Songs Queue\bin\Debug\Q06 Songs Queue.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q06 Songs Queue\bin\Debug\Q06 Songs Queue.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q06 Songs Queue\bin\Debug\Q06 Songs Queue.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q06 Songs Queue\obj\Debug\Q06 Songs Queue.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q06 Songs Queue\obj\Debug\Q06 Songs Queue.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q06 Songs Queue\obj\Debug\Q06 Songs Queue.pdb
