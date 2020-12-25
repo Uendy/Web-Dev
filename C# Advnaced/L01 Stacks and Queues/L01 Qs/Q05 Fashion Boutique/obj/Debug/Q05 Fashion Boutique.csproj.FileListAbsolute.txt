@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q05 Fashion Boutique\bin\Debug\Q05 Fashion Boutique.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q05 Fashion Boutique\bin\Debug\Q05 Fashion Boutique.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q05 Fashion Boutique\bin\Debug\Q05 Fashion Boutique.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q05 Fashion Boutique\obj\Debug\Q05 Fashion Boutique.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q05 Fashion Boutique\obj\Debug\Q05 Fashion Boutique.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q05 Fashion Boutique\obj\Debug\Q05 Fashion Boutique.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q05 Fashion Boutique\obj\Debug\Q05 Fashion Boutique.pdb
