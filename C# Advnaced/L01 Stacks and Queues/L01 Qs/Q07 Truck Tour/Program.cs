@@ -18,5 +18,35 @@ public class Program
         }
 
         int currentFuel = 0;
+
+        // Begin cycling and find the first station that can begin the tour:
+
+        var petrolCopy = new Queue<int>(petrol);
+        var distanceCopy = new Queue<int>(distance);
+
+        for (int i = 0; i < stations; i++)
+        {
+                
+            while (petrolCopy.Peek() + currentFuel >= distanceCopy.Peek())
+            {
+                currentFuel += petrolCopy.Peek();
+                currentFuel -= distanceCopy.Peek();
+
+                petrolCopy.Dequeue();
+                distanceCopy.Dequeue();
+
+                if (!petrolCopy.Any())
+                {
+                    Console.WriteLine(i);
+                    return;
+                }
+            }
+
+            petrolCopy = new Queue<int>(petrol);
+            distanceCopy = new Queue<int>(distance);
+
+            petrolCopy.Dequeue();
+            distance.Dequeue();
+        }
     }
 }
