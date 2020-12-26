@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q07 Truck Tour\bin\Debug\Q07 Truck Tour.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q07 Truck Tour\bin\Debug\Q07 Truck Tour.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q07 Truck Tour\bin\Debug\Q07 Truck Tour.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q07 Truck Tour\obj\Debug\Q07 Truck Tour.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q07 Truck Tour\obj\Debug\Q07 Truck Tour.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q07 Truck Tour\obj\Debug\Q07 Truck Tour.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q07 Truck Tour\obj\Debug\Q07 Truck Tour.pdb

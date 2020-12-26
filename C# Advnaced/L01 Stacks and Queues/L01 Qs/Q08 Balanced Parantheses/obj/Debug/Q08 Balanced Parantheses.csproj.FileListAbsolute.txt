@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q08 Balanced Parantheses\bin\Debug\Q08 Balanced Parantheses.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q08 Balanced Parantheses\bin\Debug\Q08 Balanced Parantheses.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q08 Balanced Parantheses\bin\Debug\Q08 Balanced Parantheses.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q08 Balanced Parantheses\obj\Debug\Q08 Balanced Parantheses.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q08 Balanced Parantheses\obj\Debug\Q08 Balanced Parantheses.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q08 Balanced Parantheses\obj\Debug\Q08 Balanced Parantheses.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q08 Balanced Parantheses\obj\Debug\Q08 Balanced Parantheses.pdb
