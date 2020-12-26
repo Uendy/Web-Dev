@@ -27,6 +27,7 @@ public class Program
         for (int i = 0; i < stations; i++)
         {
                 
+            // If enough gas, begin cycling to find if you can make the journey
             while (petrolCopy.Peek() + currentFuel >= distanceCopy.Peek())
             {
                 currentFuel += petrolCopy.Peek();
@@ -42,11 +43,14 @@ public class Program
                 }
             }
 
+            // Reset and shift:
+            currentFuel = 0;
+
+            petrol.Enqueue(petrol.Dequeue());
+            distance.Enqueue(distance.Dequeue());
+
             petrolCopy = new Queue<int>(petrol);
             distanceCopy = new Queue<int>(distance);
-
-            petrolCopy.Dequeue();
-            distance.Dequeue();
         }
     }
 }
