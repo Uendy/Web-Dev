@@ -9,15 +9,7 @@ public class Program
         string input = Console.ReadLine();
         var curveStack = new Stack<int>(); // (
         var squareStack = new Stack<int>(); //[
-        var waveyStack = new Stack<int>();
-
-        // check for palendrome, otherwise the sequence is unbalanced:
-        bool isPalendrome = CheckPalendrome(input);
-        if (!isPalendrome)
-        {
-            Console.WriteLine("NO");
-            return;
-        }
+        var waveyStack = new Stack<int>(); // {
 
         // Cycle through input chars and depending on currenct char, update the corresponding stack:
         var inputAsArray = input.ToCharArray();
@@ -63,12 +55,6 @@ public class Program
             Console.WriteLine("NO");
         }
     }
-
-    public static bool CheckPalendrome(string input)
-    {
-        return input.SequenceEqual(input.Reverse());
-    }
-
     public static void CheckAndExecute(Stack<int> stack) // Check for the element in its given stack and if there remove its partner or print fail
     {
         bool contains = stack.Any();
