@@ -24,6 +24,7 @@ public class Program
                     break;
 
                 case ')':
+                    CheckBalance(input, curveStack, i);
                     CheckAndExecute(curveStack);
                     break;
 
@@ -32,6 +33,7 @@ public class Program
                     break;
 
                 case ']':
+                    CheckBalance(input, squareStack, i);
                     CheckAndExecute(squareStack);
                     break;
 
@@ -40,6 +42,7 @@ public class Program
                     break;
 
                 case '}':
+                    CheckBalance(input, waveyStack, i);
                     CheckAndExecute(waveyStack);
                     break;
             }
@@ -55,6 +58,19 @@ public class Program
             Console.WriteLine("NO");
         }
     }
+
+    public static void CheckBalance(string input, Stack<int> stack, int i) // if there is an odd number between them it means it isnt balanced
+    {
+        int distance = i - stack.Peek() + 1;
+        string substring = input.Substring(stack.Peek(), distance);
+        bool oddLength = substring.Count() % 2 != 0;
+        if (oddLength)
+        {
+            Console.WriteLine("NO");
+            Environment.Exit(0);
+        }
+    }
+
     public static void CheckAndExecute(Stack<int> stack) // Check for the element in its given stack and if there remove its partner or print fail
     {
         bool contains = stack.Any();
