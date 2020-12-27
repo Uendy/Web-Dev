@@ -14,8 +14,8 @@ public class Program
             tasks.Enqueue(command);
         }
         // What if I have a list that logs the progression of the list on the permutations of 1 and 2 commands?
-        var listChanges = new List<List<string>>();
-        listChanges.Add(new List<string>());
+        var listChanges = new Stack<List<string>>();
+        listChanges.Push(new List<string>());
 
         // Begin executing command:
         var list = listChanges.Last();
@@ -30,14 +30,14 @@ public class Program
                     // 1 someString - appends someString to the end of the text
                     var someString = currentTask[1].ToCharArray();
                     list = AddSomeString(list, someString);
-                    listChanges.Add(new List<string>(list));
+                    listChanges.Push(new List<string>(list));
                     break;
 
                 case "2":
                     // 2 count - erases the last count elements from the text
                     int count = int.Parse(currentTask[1]);
                     list = ListEraseCount(list, count);
-                    listChanges.Add(new List<string>(list));
+                    listChanges.Push(new List<string>(list));
                     break;
 
                 case "3":
@@ -48,9 +48,15 @@ public class Program
 
                 case "4":
                     // 4 - undoes the last not undone command of type 1 / 2 and returns the text to the state before that operation
-                    // This will be tricky, can I add 1/2 commands to a queue and return?
-                    listChanges.RemoveAt(listChanges.Count() - 1); // removes last change
-                    list = listChanges.Last(); // list is updated to last list
+                    if (listChanges.Count() > 2)
+                    {
+                        listChanges.Pop(); // removes last change
+                        list = listChanges.Peek(); // list is updated to last list
+                    }
+                    else
+                    {
+                        list.Clear();
+                    }
                     break;
             }
             tasks.Dequeue();

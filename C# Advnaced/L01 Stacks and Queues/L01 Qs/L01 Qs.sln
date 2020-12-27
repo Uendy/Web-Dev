@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q08 Balanced Parantheses", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q09 Simple Text Editor", "Q09 Simple Text Editor\Q09 Simple Text Editor.csproj", "{127E0DA7-B457-4C57-9A03-E2F9B2B6763F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q09 V2", "Q09 V2\Q09 V2.csproj", "{99CEA7A8-BDDB-4A13-9CD5-D7B02E6F9F0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{127E0DA7-B457-4C57-9A03-E2F9B2B6763F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{127E0DA7-B457-4C57-9A03-E2F9B2B6763F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{127E0DA7-B457-4C57-9A03-E2F9B2B6763F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99CEA7A8-BDDB-4A13-9CD5-D7B02E6F9F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CEA7A8-BDDB-4A13-9CD5-D7B02E6F9F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CEA7A8-BDDB-4A13-9CD5-D7B02E6F9F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CEA7A8-BDDB-4A13-9CD5-D7B02E6F9F0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
