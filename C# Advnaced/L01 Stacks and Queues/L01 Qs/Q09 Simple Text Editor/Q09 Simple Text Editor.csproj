@@ -7,7 +7,7 @@
     <ProjectGuid>{127E0DA7-B457-4C57-9A03-E2F9B2B6763F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Q09_Simple_Text_Editor</RootNamespace>
-    <AssemblyName>Q09_Simple_Text_Editor</AssemblyName>
+    <AssemblyName>Q09 Simple Text Editor</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
