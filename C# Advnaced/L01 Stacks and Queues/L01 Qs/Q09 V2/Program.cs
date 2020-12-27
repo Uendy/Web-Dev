@@ -20,13 +20,13 @@ class Program
             {
                 case "1":
                     string add = commandLine[1];
-                    text = string.Concat(add);
+                    text += add;
                     stack.Push(text);
                     break;
 
                 case "2":
                     int removeCount = int.Parse(commandLine[1]);
-                    text.Remove(text.Length - removeCount, removeCount);
+                    text = text.Substring(0, text.Length - removeCount);
                     stack.Push(text);
                     break;
 
