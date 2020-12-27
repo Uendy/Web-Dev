@@ -8,16 +8,17 @@ public class Program
         // Reading and intializng stack of commands:
         int commands = int.Parse(Console.ReadLine());
         var tasks = new Queue<string>();
-        var tasksLog = new List<string>();
         for (int i = 0; i < commands; i++)
         {
             string command = Console.ReadLine();
             tasks.Enqueue(command);
-            tasksLog.Add(command);
         }
+        // What if I have a list that logs the progression of the list on the permutations of 1 and 2 commands?
+        var listChanges = new List<List<string>>();
+        listChanges.Add(new List<string>());
 
         // Begin executing command:
-        var list = new List<string>();
+        var list = listChanges.Last();
         while (tasks.Any())
         {
             var currentTask = tasks.Peek().Split(' ').ToArray();
@@ -29,12 +30,14 @@ public class Program
                     // 1 someString - appends someString to the end of the text
                     var someString = currentTask[1].ToCharArray();
                     list = AddSomeString(list, someString);
+                    listChanges.Add(new List<string>(list));
                     break;
 
                 case "2":
                     // 2 count - erases the last count elements from the text
                     int count = int.Parse(currentTask[1]);
                     list = ListEraseCount(list, count);
+                    listChanges.Add(new List<string>(list));
                     break;
 
                 case "3":
@@ -46,8 +49,8 @@ public class Program
                 case "4":
                     // 4 - undoes the last not undone command of type 1 / 2 and returns the text to the state before that operation
                     // This will be tricky, can I add 1/2 commands to a queue and return?
-                    int indexOfCommand = tasksLog.IndexOf("4");
-                    list = RemoveCommand(list, indexOfCommand, tasksLog);
+                    listChanges.RemoveAt(listChanges.Count() - 1); // removes last change
+                    list = listChanges.Last(); // list is updated to last list
                     break;
             }
             tasks.Dequeue();
@@ -73,34 +76,6 @@ public class Program
         else
         {
             list.Clear();
-        }
-        return list;
-    }
-    public static List<string> RemoveCommand(List<string> list, int indexOfCommand, List<string> tasksLog)
-    {
-        // find last command of type 1/2
-        for (int i = indexOfCommand - 1; i >= 0; i--)
-        {
-            var commandElements = tasksLog[i].Split(' ').ToList();
-            var command = commandElements[1];
-            if (command == "1" || command == "2")
-            {
-                if (command == "1") // undo 1
-                {
-                    var addedString = commandElements[2];
-                    int count = addedString.Count();
-                    list = ListEraseCount(list, count);
-                }
-                else // undo 2
-                { 
-                
-                }
-
-                // remove the 4 and the task it undoes from tasklog:
-                tasksLog.RemoveAt(indexOfCommand);
-                tasksLog.RemoveAt(i);
-                break;
-            }
         }
         return list;
     }
