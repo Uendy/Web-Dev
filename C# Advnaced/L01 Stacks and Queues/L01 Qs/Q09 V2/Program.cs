@@ -46,8 +46,6 @@ class Program
                         text = string.Empty;
                     }
                     break;
-                default:
-                    break;
             }
         }
     }
