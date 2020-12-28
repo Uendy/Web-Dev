@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q10 V2\bin\Debug\Q10 V2.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q10 V2\bin\Debug\Q10 V2.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q10 V2\bin\Debug\Q10 V2.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q10 V2\obj\Debug\Q10 V2.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q10 V2\obj\Debug\Q10 V2.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q10 V2\obj\Debug\Q10 V2.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q10 V2\obj\Debug\Q10 V2.pdb
