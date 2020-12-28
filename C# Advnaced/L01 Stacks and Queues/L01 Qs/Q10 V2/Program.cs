@@ -31,9 +31,8 @@ public class Program
                 {
                     string car = line.Dequeue();
                     var carLength = car.Length;
-
+                    
                     green -= carLength;
-
                     if (green > 0)  // car passes okay
                     {
                         carsPassed++;
