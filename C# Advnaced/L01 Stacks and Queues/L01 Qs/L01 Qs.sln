@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q10 V2", "Q10 V2\Q10 V2.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q11 Key Revolver", "Q11 Key Revolver\Q11 Key Revolver.csproj", "{327AC277-E4DE-4948-BBBD-9302EAB3D665}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q12 Cups and Bottles", "Q12 Cups and Bottles\Q12 Cups and Bottles.csproj", "{234F595F-9AAF-4811-BC71-F7456FB70281}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{327AC277-E4DE-4948-BBBD-9302EAB3D665}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{327AC277-E4DE-4948-BBBD-9302EAB3D665}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{327AC277-E4DE-4948-BBBD-9302EAB3D665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{234F595F-9AAF-4811-BC71-F7456FB70281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234F595F-9AAF-4811-BC71-F7456FB70281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234F595F-9AAF-4811-BC71-F7456FB70281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234F595F-9AAF-4811-BC71-F7456FB70281}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

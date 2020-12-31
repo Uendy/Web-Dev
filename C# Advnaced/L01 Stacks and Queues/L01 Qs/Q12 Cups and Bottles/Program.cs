@@ -6,8 +6,8 @@ public class Program
     public static void Main()
     {
         // Reading input:
-        var bottles = new Stack<int>(Console.ReadLine().Split(' ').Select(int.Parse));
-        var cups = new Queue<int>(Console.ReadLine().Split(' ').Select(int.Parse));
+        var bottles = new Queue<int>(Console.ReadLine().Split(' ').Select(int.Parse));
+        var cups = new Stack<int>(Console.ReadLine().Split(' ').Select(int.Parse));
         int wastedWater = 0;
 
         // Begin pouring water:
@@ -20,22 +20,29 @@ public class Program
             bool cupIsEnough = currentCup >= currentBottle;
             if (cupIsEnough)
             {
-                //int waterWasted = currentBottle - currentCup;
+                // Find wasted water and add it to total
+                int wasted = currentCup - currentBottle;
+                wastedWater += wasted;
+
+                // Remove both
+                cups.Pop();
+                bottles.Dequeue();
             }
-            else
-            { 
-            
+            else // cup isnt big enough, 
+            {
+                currentBottle -= currentCup;
+                cups.Pop();
             }
         }
 
         // Depending on empty bottles or empty cups print output:
         if (bottles.Any())
         {
-            Console.WriteLine($"Bottles: {string.Join(" ", bottles)}");
+            Console.WriteLine($"Cups: {string.Join(" ", bottles)}");
         }
         else // Print remaining cups
         {
-            Console.WriteLine($"Cups: {string.Join(" ", cups)}");
+            Console.WriteLine($"Bottles: {string.Join(" ", cups)}");
         }
         Console.WriteLine($"Wasted litters of water: {wastedWater}");
     }
