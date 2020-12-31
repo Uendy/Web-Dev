@@ -30,20 +30,7 @@ public class Program
             }
             else // cup isnt big enough, 
             {
-                // reset queue and keep reduced bottle in front:
-                var newQ = new Queue<int>();
-                currentBottle -= currentCup;
-                newQ.Enqueue(currentBottle);
-                bottles.Dequeue();
-                while (bottles.Any())
-                {
-                    newQ.Enqueue(bottles.Dequeue());
-                }
-                while (newQ.Any())
-                {
-                    bottles.Enqueue(newQ.Dequeue());
-                }
-
+                bottles = UpdateQueue(bottles, currentBottle, currentCup);
                 cups.Pop();
             }
         }
@@ -58,5 +45,24 @@ public class Program
             Console.WriteLine($"Bottles: {string.Join(" ", cups)}");
         }
         Console.WriteLine($"Wasted litters of water: {wastedWater}");
+    }
+
+    public static Queue<int> UpdateQueue(Queue<int> bottles, int currentBottle, int currentCup)
+    {
+        // reset queue and keep reduced bottle in front:
+        var newQ = new Queue<int>();
+        currentBottle -= currentCup;
+        newQ.Enqueue(currentBottle);
+        bottles.Dequeue();
+        while (bottles.Any())
+        {
+            newQ.Enqueue(bottles.Dequeue());
+        }
+        while (newQ.Any())
+        {
+            bottles.Enqueue(newQ.Dequeue());
+        }
+
+        return bottles;
     }
 }
