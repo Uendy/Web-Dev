@@ -30,7 +30,20 @@ public class Program
             }
             else // cup isnt big enough, 
             {
+                // reset queue and keep reduced bottle in front:
+                var newQ = new Queue<int>();
                 currentBottle -= currentCup;
+                newQ.Enqueue(currentBottle);
+                bottles.Dequeue();
+                while (bottles.Any())
+                {
+                    newQ.Enqueue(bottles.Dequeue());
+                }
+                while (newQ.Any())
+                {
+                    bottles.Enqueue(newQ.Dequeue());
+                }
+
                 cups.Pop();
             }
         }
@@ -40,7 +53,7 @@ public class Program
         {
             Console.WriteLine($"Cups: {string.Join(" ", bottles)}");
         }
-        else // Print remaining cups
+        else // Print remaining bottles
         {
             Console.WriteLine($"Bottles: {string.Join(" ", cups)}");
         }
