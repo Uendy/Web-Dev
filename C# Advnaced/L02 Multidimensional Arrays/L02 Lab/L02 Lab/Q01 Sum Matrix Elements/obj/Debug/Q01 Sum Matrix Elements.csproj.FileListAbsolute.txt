@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q01 Sum Matrix Elements\bin\Debug\Q01 Sum Matrix Elements.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q01 Sum Matrix Elements\bin\Debug\Q01 Sum Matrix Elements.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q01 Sum Matrix Elements\bin\Debug\Q01 Sum Matrix Elements.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q01 Sum Matrix Elements\obj\Debug\Q01 Sum Matrix Elements.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q01 Sum Matrix Elements\obj\Debug\Q01 Sum Matrix Elements.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q01 Sum Matrix Elements\obj\Debug\Q01 Sum Matrix Elements.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q01 Sum Matrix Elements\obj\Debug\Q01 Sum Matrix Elements.pdb
