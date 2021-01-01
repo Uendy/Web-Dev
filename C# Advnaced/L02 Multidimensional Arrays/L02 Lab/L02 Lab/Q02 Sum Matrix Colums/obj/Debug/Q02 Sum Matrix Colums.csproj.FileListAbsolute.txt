@@ -1,0 +1,6 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q02 Sum Matrix Colums\bin\Debug\Q02 Sum Matrix Colums.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q02 Sum Matrix Colums\bin\Debug\Q02 Sum Matrix Colums.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q02 Sum Matrix Colums\bin\Debug\Q02 Sum Matrix Colums.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q02 Sum Matrix Colums\obj\Debug\Q02 Sum Matrix Colums.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q02 Sum Matrix Colums\obj\Debug\Q02 Sum Matrix Colums.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q02 Sum Matrix Colums\obj\Debug\Q02 Sum Matrix Colums.pdb
