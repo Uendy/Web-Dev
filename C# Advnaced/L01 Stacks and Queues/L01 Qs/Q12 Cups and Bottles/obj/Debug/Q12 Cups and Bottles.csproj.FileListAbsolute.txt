@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q12 Cups and Bottles\bin\Debug\Q12_Cups_and_Bottles.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q12 Cups and Bottles\bin\Debug\Q12_Cups_and_Bottles.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q12 Cups and Bottles\bin\Debug\Q12_Cups_and_Bottles.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q12 Cups and Bottles\obj\Debug\Q12 Cups and Bottles.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q12 Cups and Bottles\obj\Debug\Q12 Cups and Bottles.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q12 Cups and Bottles\obj\Debug\Q12_Cups_and_Bottles.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L01 Stacks and Queues\L01 Qs\Q12 Cups and Bottles\obj\Debug\Q12_Cups_and_Bottles.pdb
