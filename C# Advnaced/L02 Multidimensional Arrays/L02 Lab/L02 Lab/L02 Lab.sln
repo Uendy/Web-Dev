@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q03 Primary Diagonal", "Q03
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q04 Symbol in Matrix", "Q04 Symbol in Matrix\Q04 Symbol in Matrix.csproj", "{386A077E-2D37-412C-AE47-8C74CA5BA31A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q05 Square with Maximum Sum", "Q05 Square with Maximum Sum\Q05 Square with Maximum Sum.csproj", "{AECD98D2-5144-4072-A364-F4C7E822A9E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{386A077E-2D37-412C-AE47-8C74CA5BA31A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{386A077E-2D37-412C-AE47-8C74CA5BA31A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{386A077E-2D37-412C-AE47-8C74CA5BA31A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AECD98D2-5144-4072-A364-F4C7E822A9E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECD98D2-5144-4072-A364-F4C7E822A9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECD98D2-5144-4072-A364-F4C7E822A9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECD98D2-5144-4072-A364-F4C7E822A9E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

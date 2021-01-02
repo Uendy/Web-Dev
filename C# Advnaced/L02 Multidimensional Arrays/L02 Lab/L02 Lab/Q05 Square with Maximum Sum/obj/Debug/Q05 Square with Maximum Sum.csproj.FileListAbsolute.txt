@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q05 Square with Maximum Sum\bin\Debug\Q05 Square with Maximum Sum.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q05 Square with Maximum Sum\bin\Debug\Q05 Square with Maximum Sum.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q05 Square with Maximum Sum\bin\Debug\Q05 Square with Maximum Sum.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q05 Square with Maximum Sum\obj\Debug\Q05 Square with Maximum Sum.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q05 Square with Maximum Sum\obj\Debug\Q05 Square with Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q05 Square with Maximum Sum\obj\Debug\Q05 Square with Maximum Sum.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q05 Square with Maximum Sum\obj\Debug\Q05 Square with Maximum Sum.pdb
