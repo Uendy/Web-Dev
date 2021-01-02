@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q03 Primary Diagonal\bin\Debug\Q03 Primary Diagonal.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q03 Primary Diagonal\bin\Debug\Q03 Primary Diagonal.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q03 Primary Diagonal\bin\Debug\Q03 Primary Diagonal.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q03 Primary Diagonal\obj\Debug\Q03 Primary Diagonal.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q03 Primary Diagonal\obj\Debug\Q03 Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q03 Primary Diagonal\obj\Debug\Q03 Primary Diagonal.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q03 Primary Diagonal\obj\Debug\Q03 Primary Diagonal.pdb
