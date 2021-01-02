@@ -22,14 +22,7 @@ public class Program
         int sum = 0;
         for (int row = 0; row < size; row++)
         {
-            for (int col = 0; col < size; col++)
-            {
-                bool diagonal = row == col;
-                if (diagonal)
-                {
-                    sum += matrix[row, col];
-                }
-            }
+            sum += matrix[row, row];
         }
 
         // Printing sum:
