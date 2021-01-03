@@ -20,6 +20,7 @@ public class Program
             }
         }
 
+        // Initialize max values:
         var maxSum = 0;
         var maxRow = 0;
         var maxCol = 0;
@@ -44,6 +45,7 @@ public class Program
             }
         }
 
+        // Printing output:
         Console.WriteLine($"{matrix[maxRow, maxCol]} {matrix[maxRow, maxCol + 1]}");
         Console.WriteLine($"{matrix[maxRow + 1, maxCol]} {matrix[maxRow + 1, maxCol + 1]}");
         Console.WriteLine(maxSum);
