@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q01 Diagonal Difference\bin\Debug\Q01 Diagonal Difference.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q01 Diagonal Difference\bin\Debug\Q01 Diagonal Difference.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q01 Diagonal Difference\bin\Debug\Q01 Diagonal Difference.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q01 Diagonal Difference\obj\Debug\Q01 Diagonal Difference.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q01 Diagonal Difference\obj\Debug\Q01 Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q01 Diagonal Difference\obj\Debug\Q01 Diagonal Difference.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q01 Diagonal Difference\obj\Debug\Q01 Diagonal Difference.pdb
