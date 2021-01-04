@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q07 Pascal Triangle\bin\Debug\Q07 Pascal Triangle.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q07 Pascal Triangle\bin\Debug\Q07 Pascal Triangle.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q07 Pascal Triangle\bin\Debug\Q07 Pascal Triangle.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q07 Pascal Triangle\obj\Debug\Q07 Pascal Triangle.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q07 Pascal Triangle\obj\Debug\Q07 Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q07 Pascal Triangle\obj\Debug\Q07 Pascal Triangle.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Lab\L02 Lab\Q07 Pascal Triangle\obj\Debug\Q07 Pascal Triangle.pdb
