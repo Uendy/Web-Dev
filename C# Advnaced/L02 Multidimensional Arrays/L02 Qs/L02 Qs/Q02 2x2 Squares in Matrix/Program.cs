@@ -10,10 +10,10 @@ public class Program
         var cols = size[1];
 
         // Initializing matrix and fill:
-        var matrix = new char[rows, cols];
+        var matrix = new string[rows, cols];
         for (int row = 0; row < rows; row++)
         {
-            var rowElements = Console.ReadLine().Split(' ').Select(char.Parse).ToList();
+            var rowElements = Console.ReadLine().Split(' ');
             for (int col = 0; col < cols; col++)
             {
                 matrix[row, col] = rowElements[col];
