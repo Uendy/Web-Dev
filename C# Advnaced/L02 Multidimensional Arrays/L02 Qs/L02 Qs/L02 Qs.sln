@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q03 V2", "Q03 V2\Q03 V2.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q04 Matrix Shuffling", "Q04 Matrix Shuffling\Q04 Matrix Shuffling.csproj", "{DF76C5BF-BFA3-47D4-9130-CD6F01B5539E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q05 Snake Moves", "Q05 Snake Moves\Q05 Snake Moves.csproj", "{65936B74-ECB1-42E9-AE49-EFFB42EC7744}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DF76C5BF-BFA3-47D4-9130-CD6F01B5539E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF76C5BF-BFA3-47D4-9130-CD6F01B5539E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF76C5BF-BFA3-47D4-9130-CD6F01B5539E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65936B74-ECB1-42E9-AE49-EFFB42EC7744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65936B74-ECB1-42E9-AE49-EFFB42EC7744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65936B74-ECB1-42E9-AE49-EFFB42EC7744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65936B74-ECB1-42E9-AE49-EFFB42EC7744}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q05 Snake Moves\bin\Debug\Q05 Snake Moves.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q05 Snake Moves\bin\Debug\Q05 Snake Moves.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q05 Snake Moves\bin\Debug\Q05 Snake Moves.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q05 Snake Moves\obj\Debug\Q05 Snake Moves.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q05 Snake Moves\obj\Debug\Q05 Snake Moves.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q05 Snake Moves\obj\Debug\Q05 Snake Moves.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q05 Snake Moves\obj\Debug\Q05 Snake Moves.pdb
