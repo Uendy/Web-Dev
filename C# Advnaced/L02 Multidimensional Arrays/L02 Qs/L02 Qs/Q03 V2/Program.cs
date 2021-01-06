@@ -5,7 +5,8 @@ public class Program
     public static void Main()
     {
         // Reading input parameters of matrix:
-        var size = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+        var size = Console.ReadLine().Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
+
         var rows = size[0];
         var cols = size[1];
 
@@ -13,7 +14,7 @@ public class Program
         var matrix = new int[rows][];
         for (int row = 0; row < rows; row++)
         {
-            matrix[row] = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+            matrix[row] = Console.ReadLine().Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
         }
 
         // Find biggest 3x3 sum:

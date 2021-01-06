@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q04 Matrix Shuffling\bin\Debug\Q04 Matrix Shuffling.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q04 Matrix Shuffling\bin\Debug\Q04 Matrix Shuffling.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q04 Matrix Shuffling\bin\Debug\Q04 Matrix Shuffling.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q04 Matrix Shuffling\obj\Debug\Q04 Matrix Shuffling.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q04 Matrix Shuffling\obj\Debug\Q04 Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q04 Matrix Shuffling\obj\Debug\Q04 Matrix Shuffling.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q04 Matrix Shuffling\obj\Debug\Q04 Matrix Shuffling.pdb
