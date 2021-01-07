@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q06 Jagged Array Manipulator\bin\Debug\Q06 Jagged Array Manipulator.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q06 Jagged Array Manipulator\bin\Debug\Q06 Jagged Array Manipulator.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q06 Jagged Array Manipulator\bin\Debug\Q06 Jagged Array Manipulator.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q06 Jagged Array Manipulator\obj\Debug\Q06 Jagged Array Manipulator.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q06 Jagged Array Manipulator\obj\Debug\Q06 Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q06 Jagged Array Manipulator\obj\Debug\Q06 Jagged Array Manipulator.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q06 Jagged Array Manipulator\obj\Debug\Q06 Jagged Array Manipulator.pdb
