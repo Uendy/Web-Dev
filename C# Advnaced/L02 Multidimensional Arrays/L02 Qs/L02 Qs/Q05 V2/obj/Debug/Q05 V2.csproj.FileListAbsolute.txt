@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q05 V2\bin\Debug\Q05 V2.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q05 V2\bin\Debug\Q05 V2.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q05 V2\bin\Debug\Q05 V2.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q05 V2\obj\Debug\Q05 V2.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q05 V2\obj\Debug\Q05 V2.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q05 V2\obj\Debug\Q05 V2.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L02 Multidimensional Arrays\L02 Qs\L02 Qs\Q05 V2\obj\Debug\Q05 V2.pdb

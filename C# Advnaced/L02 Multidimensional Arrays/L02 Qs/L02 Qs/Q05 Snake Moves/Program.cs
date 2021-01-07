@@ -36,15 +36,6 @@ public class Program
                 }
             }
         }
-
-        for (int row = 0; row < rows; row++)
-        {
-            for (int col = 0; col < cols; col++)
-            {
-                Console.Write(matrix[row, col]);
-            }
-            Console.WriteLine();
-        }
     }
     public static char MoveTheSnake(Queue<char> queueSnake)
     {
