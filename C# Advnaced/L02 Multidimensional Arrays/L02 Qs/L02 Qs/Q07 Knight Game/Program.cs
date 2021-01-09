@@ -20,11 +20,9 @@ public class Program
         }
 
         // Need to cycle board, and find all K's, then make a method for seeing if it attacks knights,
-        // and to find a way to see which of the two knights is more dangerous and remove that one (looking for minimum knights to be removes)
+        var battleLog = new List<Coordinates>(); // X = currentRowIndex, Y = currentColIndex & Battles = List<Coordinates> that it battles
 
-        // X = currentRowIndex, Y = currentColIndex & Battles = List<Coordinates> that it battles
-        var collisionDetected = new List<Coordinates>();
-
+        // Cycle through whole matrix and find for each Knight its position (coordinates X, Y) and battles
         for (int row = 0; row < size; row++)
         {
             for (int col = 0; col < size; col++)
@@ -33,16 +31,47 @@ public class Program
                 if (isKnight)
                 {
                     // Find out how many collisions:
-                    // compare which has the most, delete it and start cycle again:
                     var currentKnight = new Coordinates()
                     {
                         X = row,
                         Y = col,
                         Battles = FindCollisions(board, size, row, col)
                     };
+
+                    // If there are collisions add it to battleLog, if not the Knight is harmless, do nothing
+                    bool collisionsFound = currentKnight.Battles.Count() > 0;
+                    if (collisionsFound)
+                    {
+                        battleLog.Add(currentKnight);
+                    }
                 }
             }
         }
+
+        // Find which Knight has the most collisions:
+        // Remove him and cycle through all knight who have a collision with him and remove it
+        // Cycle until there is no knight with collisions:
+        var knightsRemoved = 0;
+
+        bool battlesRemaining = battleLog.Any(x => x.Battles.Count() > 0);
+        while (battlesRemaining)
+        {
+            // Find the most dangerous:
+            var mostDangerousKnight = battleLog.OrderBy(x => x.Battles.Count()).First();
+
+            // Remove it from the list of all other Knights who have battles with it:
+            battleLog = RemoveKnight(battleLog, mostDangerousKnight);
+
+            // Remove it from battleLog:
+            battleLog.Remove(battleLog.OrderBy(x => x.Battles.Count()).First());
+            knightsRemoved++;
+
+            // Continue reading battles:
+            battlesRemaining = battleLog.Any(x => x.Battles.Count() > 0);
+        }
+
+        // Print the knightsRemoved:
+        Console.WriteLine(knightsRemoved);
     }
     public static List<Coordinates> FindCollisions(char[,] board, int size, int row, int col)
     {
@@ -96,7 +125,6 @@ public class Program
 
         return battles;
     }
-
     public static bool FindBattles(char[,] board, int size, Coordinates coor)
     {
         bool battlesFound = false;
@@ -125,5 +153,22 @@ public class Program
         bool validIndex = validRow && validCol;
 
         return validIndex;
+    }
+    public static List<Coordinates> RemoveKnight(List<Coordinates> battleLog, Coordinates mostDangerousKnight)
+    {
+        var battles = mostDangerousKnight.Battles;
+
+        // cycle through dangerousKnight's battle and remove it from the battleLog.Battles of other knights:
+        foreach (var battle in battles)
+        {
+            var currentX = battle.X;
+            var currentY = battle.Y;
+
+            // Can't quite get to the Knight in the battle log and then to remove his battle with dangerKnight:
+            var knightBattled = battleLog.Where(x => x.X == currentX).Where(y => y.Y == currentY).ToList();
+        }
+        // Cycle through 
+
+        return battleLog;
     }
 }
