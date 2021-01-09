@@ -9,10 +9,10 @@ public class Program
         var size = int.Parse(Console.ReadLine());
 
         // Initialize and fill matrix:
-        var board = new char[size, size];
+        var board = new char[size,size];
         for (int row = 0; row < size; row++)
         {
-            var currentRow = Console.ReadLine().Split(new string[] { " " }, StringSplitOptions.RemoveEmptyEntries).Select(char.Parse).ToArray();
+            var currentRow = Console.ReadLine().ToCharArray();
             for (int col = 0; col < size; col++)
             {
                 board[row, col] = currentRow[col];
@@ -98,8 +98,8 @@ public class Program
         var coordinateFive = new Coordinates { X = row + 2, Y = col + 1 };
         possibleKnights.Add(coordinateFive);
 
-        // 6th collision: row + 2, col - 2
-        var coordinateSix = new Coordinates { X = row + 2, Y = col - 2 };
+        // 6th collision: row + 2, col - 1
+        var coordinateSix = new Coordinates { X = row + 2, Y = col - 1 };
         possibleKnights.Add(coordinateSix);
 
         // 7th collision: row + 1, col - 2
@@ -132,7 +132,7 @@ public class Program
         var row = coor.X;
         var col = coor.Y;
 
-        bool validIndex = CheckIndex(board, size, row, col);
+        bool validIndex = CheckIndex(size, row, col);
         if (validIndex)
         {
             // check if point contains a knight:
@@ -145,7 +145,7 @@ public class Program
 
         return battlesFound;
     }
-    public static bool CheckIndex(char[,] board, int size, int row, int col) // Check the index:
+    public static bool CheckIndex(int size, int row, int col) // Check the index:
     {
         bool validRow = row >= 0 && row < size;
         bool validCol = col >= 0 && col < size;
@@ -161,13 +161,29 @@ public class Program
         // cycle through dangerousKnight's battle and remove it from the battleLog.Battles of other knights:
         foreach (var battle in battles)
         {
-            var currentX = battle.X;
-            var currentY = battle.Y;
+            // the row and col where the battle happened:
+            var dangerCoordinates = new Coordinates()
+            {
+                X = mostDangerousKnight.X,
+                Y = mostDangerousKnight.Y
+            };
 
-            // Can't quite get to the Knight in the battle log and then to remove his battle with dangerKnight:
-            var knightBattled = battleLog.Where(x => x.X == currentX).Where(y => y.Y == currentY).ToList();
+            foreach (var knight in battleLog)
+            {
+                // the row and col of the currentKnight
+                var knightX = knight.X;
+                var knightY = knight.Y;
+
+                // find the Knight in battleLog
+                bool foundKnight = knightX == dangerCoordinates.X && knightY == dangerCoordinates.Y;
+                if (foundKnight)
+                {
+                    // remove the battle with dangerKnight
+                    knight.Battles.Remove(dangerCoordinates);
+                    break;
+                }
+            }
         }
-        // Cycle through 
 
         return battleLog;
     }
