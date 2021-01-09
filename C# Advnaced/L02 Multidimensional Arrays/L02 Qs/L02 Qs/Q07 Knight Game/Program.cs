@@ -22,8 +22,8 @@ public class Program
         // Need to cycle board, and find all K's, then make a method for seeing if it attacks knights,
         // and to find a way to see which of the two knights is more dangerous and remove that one (looking for minimum knights to be removes)
 
-        // key = array with row, col (coordinates), int = number of collisions it has:
-        var collisionDetected = new Dictionary<int[], int>();
+        // X = currentRowIndex, Y = currentColIndex & Battles = List<Coordinates> that it battles
+        var collisionDetected = new List<Coordinates>();
 
         for (int row = 0; row < size; row++)
         {
@@ -34,20 +34,18 @@ public class Program
                 {
                     // Find out how many collisions:
                     // compare which has the most, delete it and start cycle again:
-                    var collisions = FindCollisions(board, size, row, col);
-
-
-
-
-
+                    var currentKnight = new Coordinates()
+                    {
+                        X = row,
+                        Y = col,
+                        Battles = FindCollisions(board, size, row, col)
+                    };
                 }
             }
         }
     }
-    public static int FindCollisions(char[,] board, int size, int row, int col)
+    public static List<Coordinates> FindCollisions(char[,] board, int size, int row, int col)
     {
-        int collisions = 0;
-
         // shove all possible collisions to cycle through them easier:
         var possibleKnights = new List<Coordinates>();
 
@@ -60,31 +58,72 @@ public class Program
         possibleKnights.Add(coordinateTwo);
 
         // 3rd collision: row - 1, col + 2
-        var coordinateTwo = new Coordinates { X = row - 2, Y = col + 1 };
-        possibleKnights.Add(coordinateTwo);
+        var coordinateThree = new Coordinates { X = row - 1, Y = col + 2 };
+        possibleKnights.Add(coordinateThree);
 
         // 4th collision: row + 1, col + 2
-        var coordinateTwo = new Coordinates { X = row - 2, Y = col + 1 };
-        possibleKnights.Add(coordinateOne);
+        var coordinateFour = new Coordinates { X = row + 1, Y = col + 2 };
+        possibleKnights.Add(coordinateFour);
 
         // 5th collision: row + 2, col + 1
-        var coordinateTwo = new Coordinates { X = row - 2, Y = col + 1 };
-        possibleKnights.Add(coordinateOne);
+        var coordinateFive = new Coordinates { X = row + 2, Y = col + 1 };
+        possibleKnights.Add(coordinateFive);
 
         // 6th collision: row + 2, col - 2
-        var coordinateTwo = new Coordinates { X = row - 2, Y = col + 1 };
-        possibleKnights.Add(coordinateOne);
+        var coordinateSix = new Coordinates { X = row + 2, Y = col - 2 };
+        possibleKnights.Add(coordinateSix);
 
         // 7th collision: row + 1, col - 2
-        var coordinateTwo = new Coordinates { X = row - 2, Y = col + 1 };
-        possibleKnights.Add(coordinateOne);
+        var coordinateSeven = new Coordinates { X = row + 1, Y = col - 2 };
+        possibleKnights.Add(coordinateSeven);
 
         // 8th collision: row - 1, col - 2
-        var coordinateTwo = new Coordinates { X = row - 2, Y = col + 1 };
-        possibleKnights.Add(coordinateOne);
+        var coordinateEight = new Coordinates { X = row - 1, Y = col - 2 };
+        possibleKnights.Add(coordinateEight);
+
+        // Make a collection for the actual battles, which the method will return;
+        var battles = new List<Coordinates>();
+
+        // Cycle and check if valid, then check if knight and if all pass, then add to .Battles of currentCoor:
+        foreach (var coor in possibleKnights)
+        {
+            bool battlesFound = FindBattles(board, size, coor);
+            if (battlesFound)
+            {
+                battles.Add(new Coordinates { X = coor.X, Y = coor.Y });
+            }
+        }
+
+        return battles;
+    }
+
+    public static bool FindBattles(char[,] board, int size, Coordinates coor)
+    {
+        bool battlesFound = false;
+
+        var row = coor.X;
+        var col = coor.Y;
 
         bool validIndex = CheckIndex(board, size, row, col);
+        if (validIndex)
+        {
+            // check if point contains a knight:
+            bool isKnight = board[row, col] == 'K';
+            if (isKnight)
+            {
+                battlesFound = true;
+            }
+        }
 
-        return collisions;
+        return battlesFound;
+    }
+    public static bool CheckIndex(char[,] board, int size, int row, int col) // Check the index:
+    {
+        bool validRow = row >= 0 && row < size;
+        bool validCol = col >= 0 && col < size;
+
+        bool validIndex = validRow && validCol;
+
+        return validIndex;
     }
 }
