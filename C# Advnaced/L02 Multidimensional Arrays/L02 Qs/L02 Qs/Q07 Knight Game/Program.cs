@@ -63,7 +63,7 @@ public class Program
             battleLog = RemoveKnight(battleLog, mostDangerousKnight);
 
             // Remove it from battleLog:
-            battleLog.Remove(battleLog.OrderBy(x => x.Battles.Count()).First());
+            battleLog.Remove(battleLog.OrderByDescending(x => x.Battles.Count()).First());
             knightsRemoved++;
 
             // Continue reading battles:
@@ -156,28 +156,23 @@ public class Program
     }
     public static List<Coordinates> RemoveKnight(List<Coordinates> battleLog, Coordinates mostDangerousKnight)
     {
-        // Get info on the danger knight, X, Y, Battles
-        var battles = mostDangerousKnight.Battles;
+        // Get info on the danger knight, X, Y
         var dangerCoordinates = new Coordinates()
         {
             X = mostDangerousKnight.X,
             Y = mostDangerousKnight.Y
         };
 
-        // cycle through dangerousKnight's battle and remove it from the battleLog.Battles of other knights:
-        foreach (var battle in battles)
+        // Cyle through the knights in battleLog and see which have battles with dangerKnight
+        foreach (var knight in battleLog)
         {
-            // Cyle through the knights in battleLog and see which have battles with dangerKnight
-            foreach (var knight in battleLog)
+            foreach (var fight in knight.Battles)
             {
-                foreach (var fight in knight.Battles)
+                bool fightFound = fight.X == dangerCoordinates.X && fight.Y == dangerCoordinates.Y;
+                if (fightFound)
                 {
-                    bool fightFound = fight.X == dangerCoordinates.X && fight.Y == dangerCoordinates.Y;
-                    if (fightFound)
-                    {
-                        knight.Battles.Remove(fight);
-                        break;
-                    }
+                    knight.Battles.Remove(fight);
+                    break;
                 }
             }
         }
