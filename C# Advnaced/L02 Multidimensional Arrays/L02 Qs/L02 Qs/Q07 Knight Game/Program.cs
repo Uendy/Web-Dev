@@ -9,7 +9,7 @@ public class Program
         var size = int.Parse(Console.ReadLine());
 
         // Initialize and fill matrix:
-        var board = new char[size,size];
+        var board = new char[size, size];
         for (int row = 0; row < size; row++)
         {
             var currentRow = Console.ReadLine().ToCharArray();
@@ -159,10 +159,10 @@ public class Program
         // Get info on the danger knight, X, Y, Battles
         var battles = mostDangerousKnight.Battles;
         var dangerCoordinates = new Coordinates()
-            {
-                X = mostDangerousKnight.X,
-                Y = mostDangerousKnight.Y
-            };
+        {
+            X = mostDangerousKnight.X,
+            Y = mostDangerousKnight.Y
+        };
 
         // cycle through dangerousKnight's battle and remove it from the battleLog.Battles of other knights:
         foreach (var battle in battles)
@@ -170,13 +170,14 @@ public class Program
             // Cyle through the knights in battleLog and see which have battles with dangerKnight
             foreach (var knight in battleLog)
             {
-                // find the Knight in battleLog
-                bool foundKnight = knight.Battles.Any(x => x == dangerCoordinates);
-                if (foundKnight)
-                { 
-                    // remove the battle with dangerKnight
-                    knight.Battles.Remove(dangerCoordinates);
-                    break;
+                foreach (var fight in knight.Battles)
+                {
+                    bool fightFound = fight.X == dangerCoordinates.X && fight.Y == dangerCoordinates.Y;
+                    if (fightFound)
+                    {
+                        knight.Battles.Remove(fight);
+                        break;
+                    }
                 }
             }
         }
