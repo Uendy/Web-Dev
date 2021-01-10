@@ -57,7 +57,7 @@ public class Program
         while (battlesRemaining)
         {
             // Find the most dangerous:
-            var mostDangerousKnight = battleLog.OrderBy(x => x.Battles.Count()).First();
+            var mostDangerousKnight = battleLog.OrderByDescending(x => x.Battles.Count()).First();
 
             // Remove it from the list of all other Knights who have battles with it:
             battleLog = RemoveKnight(battleLog, mostDangerousKnight);
@@ -156,28 +156,24 @@ public class Program
     }
     public static List<Coordinates> RemoveKnight(List<Coordinates> battleLog, Coordinates mostDangerousKnight)
     {
+        // Get info on the danger knight, X, Y, Battles
         var battles = mostDangerousKnight.Battles;
-
-        // cycle through dangerousKnight's battle and remove it from the battleLog.Battles of other knights:
-        foreach (var battle in battles)
-        {
-            // the row and col where the battle happened:
-            var dangerCoordinates = new Coordinates()
+        var dangerCoordinates = new Coordinates()
             {
                 X = mostDangerousKnight.X,
                 Y = mostDangerousKnight.Y
             };
 
+        // cycle through dangerousKnight's battle and remove it from the battleLog.Battles of other knights:
+        foreach (var battle in battles)
+        {
+            // Cyle through the knights in battleLog and see which have battles with dangerKnight
             foreach (var knight in battleLog)
             {
-                // the row and col of the currentKnight
-                var knightX = knight.X;
-                var knightY = knight.Y;
-
                 // find the Knight in battleLog
-                bool foundKnight = knightX == dangerCoordinates.X && knightY == dangerCoordinates.Y;
+                bool foundKnight = knight.Battles.Any(x => x == dangerCoordinates);
                 if (foundKnight)
-                {
+                { 
                     // remove the battle with dangerKnight
                     knight.Battles.Remove(dangerCoordinates);
                     break;
