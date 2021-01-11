@@ -19,7 +19,7 @@ public class Program
         var bombsInput = Console.ReadLine().Split(new string[] { ",", " " }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
 
         // Find all bombs and explode them:
-        for (int bomb = 0; bomb < bombsInput.Count() / 2; bomb+=2)
+        for (int bomb = 0; bomb < bombsInput.Count(); bomb +=2)
         {
             int bombRow = bombsInput[bomb];
             int bombCol = bombsInput[bomb + 1];
@@ -57,12 +57,18 @@ public class Program
         {
             int bombDamage = matrix[bombRow][bombCol];
 
+            // If bomb already dead, don't explode it
+            if (bombDamage <= 0)
+            {
+                return matrix;
+            }
+
             // Cyle the squares around the bomb and if possible reduce them
             for (int row = bombRow - 1; row <= bombRow + 1; row++)
             {
                 for (int col = bombCol - 1; col <= bombCol + 1; col++)
                 {
-                    // bomb reduces itself to 0
+                    // bomb reduces itself to 0 and needs to stay at 0
                     bool isBomb = row == bombRow && col == bombCol;
                     if (isBomb)
                     {
@@ -73,7 +79,7 @@ public class Program
                     if (CheckIndex(row, col, size))
                     {
                         // if its already dead (> 0), dont do anything, if alive, reduce by bomb damage
-                        bool isAlive = matrix[row][col] >= 0;
+                        bool isAlive = matrix[row][col] > 0;
                         if (isAlive)
                         {
                             matrix[row][col] -= bombDamage;
