@@ -159,6 +159,7 @@ public class Program
         // Get info on the danger knight, X, Y
         var dangerCoordinates = new Coordinates()
         {
+            Battles = mostDangerousKnight.Battles,
             X = mostDangerousKnight.X,
             Y = mostDangerousKnight.Y
         };
@@ -166,6 +167,10 @@ public class Program
         // Cyle through the knights in battleLog and see which have battles with dangerKnight
         foreach (var knight in battleLog)
         {
+            bool foundBattle = knight.Battles.Any(x => x.X == dangerCoordinates.X && x.Y == dangerCoordinates.Y);
+            if(foundBattle)
+
+
             foreach (var fight in knight.Battles)
             {
                 bool fightFound = fight.X == dangerCoordinates.X && fight.Y == dangerCoordinates.Y;
