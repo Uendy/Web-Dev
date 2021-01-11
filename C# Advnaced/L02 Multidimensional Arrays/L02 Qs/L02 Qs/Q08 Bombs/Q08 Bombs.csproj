@@ -7,7 +7,7 @@
     <ProjectGuid>{1281B174-C460-4098-BD72-BB00B3F1D82D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Q08_Bombs</RootNamespace>
-    <AssemblyName>Q08_Bombs</AssemblyName>
+    <AssemblyName>Q08 Bombs</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
