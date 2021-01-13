@@ -5,6 +5,14 @@ public class Program
 {
     public static void Main()
     {
+        // Make the coordinates easier instead of shoving them in a list and itterating by 2
+        var Arr = new List<int[]>();
+        Arr.Add(new int[2]);
+        Arr[0][0] = 10;
+        Arr[0][1] = 12;
+        Arr.Add(new int[2]);
+        Arr[1][0] = 11;
+
         // Var reading matrix parameters:
         var parameters = Console.ReadLine().Split(new string[] { " " }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
         var rows = parameters[0];
@@ -185,7 +193,7 @@ public class Program
         {
             for (int col = 0; col < cols; col++)
             {
-                Console.Write($"{matrix[row, col]} ");
+                Console.Write($"{matrix[row, col]}");
             }
             Console.WriteLine();
         }
