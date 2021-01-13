@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 public class Program
 {
@@ -61,9 +62,9 @@ public class Program
             }
 
             // See if valid or player is outside:
-            bool playerLeft = newRow < 0 
+            bool playerLeft = newRow < 0
                 || newRow >= rows
-                || newCol < 0 
+                || newCol < 0
                 || newCol >= cols;
             if (playerLeft)// Print and end program
             {
@@ -80,6 +81,34 @@ public class Program
                 playerCol = newCol;
 
                 // multiply bunnies: (this is tough as I dont want to multiply then, as I cycle I find a bunny that I just added and multiply it again, or from the first multiplication will recouse and fill the whole matrix)
+                // What if I make a list of all B's, then cycle each one and find their neighbours, check each neighbour if legit, then convert.
+                var bunnies = new List<int>();
+                // cycle through the whole matrix and find all bunnies or just the ones, who dont have all bunny true neighbours, to not cycle so much:
+                for (int row = 0; row < rows; row++)
+                {
+                    for (int col = 0; col < cols; col++)
+                    {
+                        bool isBunny = matrix[row, col] == 'B';
+                        if (isBunny)
+                        {
+                            bunnies.Add(row);
+                            bunnies.Add(col);
+                        }
+                    }
+                }
+
+                // Cycle and find all valid neighbouring bunnies:
+                var newBunnies = new List<int>();
+                for (int i = 0; i < bunnies.Count(); i += 2)
+                {
+                    var bunnyRow = bunnies[i];
+                    var bunnyCol = bunnies[i + 1];
+
+                    newBunnies = FindNeighbours(bunnyRow, bunnyCol, newBunnies, rows, cols);
+                }
+
+                // Find cycle through newBunnies and update matrix:
+
 
                 // Check if he stepped on a bunny:
                 bool steppedOnBunny = matrix[playerRow, playerCol] == 'B';
@@ -95,6 +124,51 @@ public class Program
             // Continue to next command:
             commands.RemoveAt(0);
         }
+    }
+
+    public static List<int> FindNeighbours(int bunnyRow, int bunnyCol, List<int> possibleBunnies, int rows, int cols)
+    {
+        // Up:
+        var up = bunnyRow - 1;
+        if (ValidIndex(up, bunnyCol, rows, cols))
+        {
+            possibleBunnies.Add(up);
+            possibleBunnies.Add(bunnyCol);
+        }
+
+        // Right:
+        var right = bunnyCol + 1;
+        if (ValidIndex(bunnyRow, right, rows, cols))
+        {
+            possibleBunnies.Add(bunnyRow);
+            possibleBunnies.Add(right);
+        }
+
+        // Down:
+        var down = bunnyRow + 1;
+        if (ValidIndex(down, bunnyCol, rows, cols))
+        {
+            possibleBunnies.Add(down);
+            possibleBunnies.Add(bunnyCol);
+        }
+
+        // Left:
+        var left = bunnyCol - 1;
+        if (ValidIndex(bunnyRow, left, rows, cols))
+        {
+            possibleBunnies.Add(bunnyRow);
+            possibleBunnies.Add(left);
+        }
+
+        return possibleBunnies;
+    }
+
+    public static bool ValidIndex(int x, int y, int rows, int cols)
+    {
+        bool isValid = x >= 0 && x < rows
+            && y >= 0 && y < cols;
+
+        return isValid;
     }
 
     public static void PrintMatrix(char[,] matrix)
