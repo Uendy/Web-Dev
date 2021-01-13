@@ -7,7 +7,7 @@
     <ProjectGuid>{C10FA153-BD6D-4E6E-83B9-F225D3353088}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Q10_Radioactive_Mutant_Vampire_Bunnies</RootNamespace>
-    <AssemblyName>Q10_Radioactive_Mutant_Vampire_Bunnies</AssemblyName>
+    <AssemblyName>Q10 Radioactive Mutant Vampire Bunnies</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
