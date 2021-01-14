@@ -14,12 +14,12 @@ public class Program
         var playerRow = 0;
         var playerCol = 0;
 
-        var matrix = new int[rows][];
+        var matrix = new char[rows][];
         for (int row = 0; row < rows; row++)
         {
             var rowElements = Console.ReadLine().ToCharArray().ToArray();
 
-            matrix[row] = new int[cols];
+            matrix[row] = new char[cols];
             for (int col = 0; col < cols; col++)
             {
                 matrix[row][col] = rowElements[col];
@@ -83,7 +83,7 @@ public class Program
             var newBunnies = new List<int[]>();
             foreach (var bunny in currentBunnies)
             {
-                newBunnies = FindNeighbours(bunny, rows, cols);
+                newBunnies = FindNeighbours(newBunnies, bunny, rows, cols);
             }
 
             // Cycle newBunnies and update matrix with them:
@@ -99,7 +99,7 @@ public class Program
             {
                 // Print matrix and output and end:
                 PrintMatrix(matrix, rows, cols);
-                Console.WriteLine($"won: {playerRow} {playerCol}");
+                LastLocation(playerRow, playerCol, currentCommand); // find last location by returning one command back and printing player location
                 return;
             }
 
@@ -117,11 +117,8 @@ public class Program
             commands.RemoveAt(0);
         }
     }
-
-    public static List<int[]> FindNeighbours(int[] bunny, int rows, int cols)
+    public static List<int[]> FindNeighbours(List<int[]> newBunnies, int[] bunny, int rows, int cols)
     {
-        var newBunnies = new List<int[]>();
-
         var row = bunny[0];
         var col = bunny[1];
 
@@ -136,7 +133,7 @@ public class Program
 
         // Right:
         var right = col + 1;
-        if (CheckIndex(row, right, row, cols))
+        if (CheckIndex(row, right, rows, cols))
         {
             newBunnies.Add(new int[2]);
             newBunnies[newBunnies.Count() - 1][0] = row;
@@ -171,11 +168,36 @@ public class Program
 
         return isValid;
     }
-    public static void PrintMatrix(int[][] matrix, int rows, int cols)
+    public static void PrintMatrix(char[][] matrix, int rows, int cols)
     {
         for (int row = 0; row < rows; row++)
         {
             Console.WriteLine(string.Join("",matrix[row]));
         }
+    }
+    public static void LastLocation(int playerRow, int playerCol, char currentCommand)
+    {
+        switch (currentCommand)
+        {
+            case 'U': // Up
+                playerRow++;
+                break;
+
+            case 'R': // Right
+                playerCol--;
+                break;
+
+            case 'D': // Down
+                playerRow--;
+                break;
+
+            case 'L': // Left
+                playerCol++;
+                break;
+            default:
+                break;
+        }
+
+        Console.WriteLine($"won: {playerRow} {playerCol}");
     }
 }
