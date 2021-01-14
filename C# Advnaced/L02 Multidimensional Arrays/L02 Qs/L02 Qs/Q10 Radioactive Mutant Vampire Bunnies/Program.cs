@@ -91,7 +91,7 @@ public class Program
                 newBunnies = FindNeighbours(bunnyRow, bunnyCol, newBunnies, rows, cols);
             }
 
-            // Find cycle through newBunnies and update matrix:
+            // Cycle through newBunnies and update matrix:
             for (int i = 0; i < newBunnies.Count(); i += 2)
             {
                 var bunnyRow = newBunnies[i];
@@ -126,8 +126,6 @@ public class Program
                 Console.WriteLine($"dead: {playerRow} {playerCol}");
                 return;
             }
-
-
 
             // Continue to next command:
             commands.RemoveAt(0);

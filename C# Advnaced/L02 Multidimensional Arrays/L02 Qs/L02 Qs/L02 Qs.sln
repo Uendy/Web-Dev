@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q09 Miner", "Q09 Miner\Q09 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q10 Radioactive Mutant Vampire Bunnies", "Q10 Radioactive Mutant Vampire Bunnies\Q10 Radioactive Mutant Vampire Bunnies.csproj", "{C10FA153-BD6D-4E6E-83B9-F225D3353088}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q10 V2", "Q10 V2\Q10 V2.csproj", "{8FE9B94A-FAED-4528-91A8-30455F2B2976}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{C10FA153-BD6D-4E6E-83B9-F225D3353088}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C10FA153-BD6D-4E6E-83B9-F225D3353088}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C10FA153-BD6D-4E6E-83B9-F225D3353088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FE9B94A-FAED-4528-91A8-30455F2B2976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE9B94A-FAED-4528-91A8-30455F2B2976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE9B94A-FAED-4528-91A8-30455F2B2976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE9B94A-FAED-4528-91A8-30455F2B2976}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -35,7 +35,7 @@ public class Program
         }
 
         // Reading and executing commands:
-        var commands = Console.ReadLine().ToCharArray().ToArray();
+        var commands = Console.ReadLine().ToCharArray().ToList();
         while (true)
         {
             matrix[playerRow][playerCol] = '.';
@@ -85,6 +85,36 @@ public class Program
             {
                 newBunnies = FindNeighbours(bunny, rows, cols);
             }
+
+            // Cycle newBunnies and update matrix with them:
+            foreach (var bunny in newBunnies)
+            {
+                var row = bunny[0];
+                var col = bunny[1];
+                matrix[row][col] = 'B';
+            }
+
+            // Check if the player is still inside:
+            if (!CheckIndex(playerRow, playerCol, rows, cols))
+            {
+                // Print matrix and output and end:
+                PrintMatrix(matrix, rows, cols);
+                Console.WriteLine($"won: {playerRow} {playerCol}");
+                return;
+            }
+
+            // Check if he stepped on a bunny:
+            bool steppedOnBunny = matrix[playerRow][playerCol] == 'B';
+            if (steppedOnBunny)
+            {
+                // Print matrix and output: 
+                PrintMatrix(matrix, rows, cols);
+                Console.WriteLine($"dead: {playerRow} {playerCol}");
+                return;
+            }
+
+            // Continue to next command:
+            commands.RemoveAt(0);
         }
     }
 
@@ -140,5 +170,12 @@ public class Program
             && col >= 0 && col < cols;
 
         return isValid;
+    }
+    public static void PrintMatrix(int[][] matrix, int rows, int cols)
+    {
+        for (int row = 0; row < rows; row++)
+        {
+            Console.WriteLine(string.Join("",matrix[row]));
+        }
     }
 }
