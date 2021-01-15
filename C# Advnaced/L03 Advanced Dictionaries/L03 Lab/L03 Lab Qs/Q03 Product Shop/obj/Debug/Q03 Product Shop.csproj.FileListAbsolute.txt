@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q03 Product Shop\bin\Debug\Q03 Product Shop.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q03 Product Shop\bin\Debug\Q03 Product Shop.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q03 Product Shop\bin\Debug\Q03 Product Shop.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q03 Product Shop\obj\Debug\Q03 Product Shop.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q03 Product Shop\obj\Debug\Q03 Product Shop.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q03 Product Shop\obj\Debug\Q03 Product Shop.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q03 Product Shop\obj\Debug\Q03 Product Shop.pdb

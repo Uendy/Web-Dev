@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q02 Average Student Grades\bin\Debug\Q02 Average Student Grades.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q02 Average Student Grades\bin\Debug\Q02 Average Student Grades.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q02 Average Student Grades\bin\Debug\Q02 Average Student Grades.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q02 Average Student Grades\obj\Debug\Q02 Average Student Grades.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q02 Average Student Grades\obj\Debug\Q02 Average Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q02 Average Student Grades\obj\Debug\Q02 Average Student Grades.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q02 Average Student Grades\obj\Debug\Q02 Average Student Grades.pdb
