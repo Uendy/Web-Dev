@@ -8,16 +8,16 @@ public class Program
         var inputCount = int.Parse(Console.ReadLine());
 
         // Initialize hashset:
-        var hashset = new HashSet<string>();
+        var names = new SortedSet<string>();
 
         // Fill with input:
         for (int i = 0; i < inputCount; i++)
         {
-            hashset.Add(Console.ReadLine());
+            names.Add(Console.ReadLine());
         }
 
         // Print the hashset contents:
-        foreach (var name in hashset)
+        foreach (var name in names)
         {
             Console.WriteLine(name);
         }
