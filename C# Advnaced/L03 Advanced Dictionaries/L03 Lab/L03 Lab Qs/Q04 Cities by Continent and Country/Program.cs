@@ -38,7 +38,7 @@ public class Program
             Console.WriteLine($"{continent.Key}: ");
             foreach (var country in continent.Value)
             {
-                Console.WriteLine($"{country.Key} -> {string.Join(" ", country.Value)}");
+                Console.WriteLine($"{country.Key} -> {string.Join(", ", country.Value)}");
             }
         }
     }
