@@ -1,15 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Q01_Unique_Usernames
+public class Program
 {
-    class Program
+    public static void Main()
     {
-        static void Main(string[] args)
+        // Initialize Hashset:
+        var usernames = new HashSet<string>();
+
+        // Reading inputs and updating HashSet:
+        var inputCount = int.Parse(Console.ReadLine());
+        for (int i = 0; i < inputCount; i++)
         {
+            usernames.Add(Console.ReadLine());
+        }
+
+        // Printing each unique username:
+        foreach (var username in usernames)
+        {
+            Console.WriteLine(username);
         }
     }
 }
