@@ -8,7 +8,7 @@ public class Program
         var inputCount = int.Parse(Console.ReadLine());
 
         // Initialize hashset:
-        var names = new SortedSet<string>();
+        var names = new HashSet<string>();
 
         // Fill with input:
         for (int i = 0; i < inputCount; i++)

@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q06 Parking Lot\bin\Debug\Q06 Parking Lot.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q06 Parking Lot\bin\Debug\Q06 Parking Lot.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q06 Parking Lot\bin\Debug\Q06 Parking Lot.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q06 Parking Lot\obj\Debug\Q06 Parking Lot.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q06 Parking Lot\obj\Debug\Q06 Parking Lot.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q06 Parking Lot\obj\Debug\Q06 Parking Lot.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q06 Parking Lot\obj\Debug\Q06 Parking Lot.pdb
