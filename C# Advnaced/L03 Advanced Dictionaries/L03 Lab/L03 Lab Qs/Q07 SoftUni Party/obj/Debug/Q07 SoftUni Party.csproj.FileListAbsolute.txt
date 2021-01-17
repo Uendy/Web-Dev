@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q07 SoftUni Party\bin\Debug\Q07 SoftUni Party.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q07 SoftUni Party\bin\Debug\Q07 SoftUni Party.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q07 SoftUni Party\bin\Debug\Q07 SoftUni Party.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q07 SoftUni Party\obj\Debug\Q07 SoftUni Party.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q07 SoftUni Party\obj\Debug\Q07 SoftUni Party.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q07 SoftUni Party\obj\Debug\Q07 SoftUni Party.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Lab\L03 Lab Qs\Q07 SoftUni Party\obj\Debug\Q07 SoftUni Party.pdb
