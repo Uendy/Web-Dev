@@ -9,14 +9,27 @@ public class Program
         var inputCounts = int.Parse(Console.ReadLine());
 
         // Initialize and fill data structure:
-        var list = new List<int>();
+        var dict = new Dictionary<int, int>();
         for (int i = 0; i < inputCounts; i++)
         {
-            list.Add(int.Parse(Console.ReadLine()));
+            var number = int.Parse(Console.ReadLine());
+            bool newNum = !dict.ContainsKey(number);
+            if(newNum)
+            {
+                dict[number] = 0;
+            }
+            dict[number]++;
         }
 
-        // Sort and find the entry with odd counts:
-        var evenCount = list.GroupBy(x => x).Select(c => new { Key = c.Key, total = c.Count() % 2 == 0 }).First();
-        Console.WriteLine(evenCount.Key);
+        // Sort and find the entry with odd counts, then print:
+        foreach (var num in dict)
+        {
+            bool evenCount = num.Value % 2 == 0;
+            if (evenCount)
+            {
+                Console.WriteLine(num.Key);
+                return;
+            }
+        }
     }
 }
