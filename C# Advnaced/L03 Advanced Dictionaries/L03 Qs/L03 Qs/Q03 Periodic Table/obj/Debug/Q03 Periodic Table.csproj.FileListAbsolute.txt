@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q03 Periodic Table\bin\Debug\Q03 Periodic Table.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q03 Periodic Table\bin\Debug\Q03 Periodic Table.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q03 Periodic Table\bin\Debug\Q03 Periodic Table.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q03 Periodic Table\obj\Debug\Q03 Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q03 Periodic Table\obj\Debug\Q03 Periodic Table.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q03 Periodic Table\obj\Debug\Q03 Periodic Table.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q03 Periodic Table\obj\Debug\Q03 Periodic Table.csprojAssemblyReference.cache
