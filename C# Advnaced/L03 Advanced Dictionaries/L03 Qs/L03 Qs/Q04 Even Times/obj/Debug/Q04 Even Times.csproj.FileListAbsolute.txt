@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q04 Even Times\bin\Debug\Q04 Even Times.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q04 Even Times\bin\Debug\Q04 Even Times.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q04 Even Times\bin\Debug\Q04 Even Times.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q04 Even Times\obj\Debug\Q04 Even Times.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q04 Even Times\obj\Debug\Q04 Even Times.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q04 Even Times\obj\Debug\Q04 Even Times.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q04 Even Times\obj\Debug\Q04 Even Times.csprojAssemblyReference.cache
