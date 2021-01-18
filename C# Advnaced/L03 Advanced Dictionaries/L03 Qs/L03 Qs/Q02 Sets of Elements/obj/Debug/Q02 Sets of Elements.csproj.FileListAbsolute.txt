@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q02 Sets of Elements\bin\Debug\Q02 Sets of Elements.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q02 Sets of Elements\bin\Debug\Q02 Sets of Elements.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q02 Sets of Elements\bin\Debug\Q02 Sets of Elements.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q02 Sets of Elements\obj\Debug\Q02 Sets of Elements.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q02 Sets of Elements\obj\Debug\Q02 Sets of Elements.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q02 Sets of Elements\obj\Debug\Q02 Sets of Elements.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q02 Sets of Elements\obj\Debug\Q02 Sets of Elements.pdb
