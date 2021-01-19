@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q06 Wardrobe\bin\Debug\Q06 Wardrobe.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q06 Wardrobe\bin\Debug\Q06 Wardrobe.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q06 Wardrobe\bin\Debug\Q06 Wardrobe.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q06 Wardrobe\obj\Debug\Q06 Wardrobe.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q06 Wardrobe\obj\Debug\Q06 Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q06 Wardrobe\obj\Debug\Q06 Wardrobe.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q06 Wardrobe\obj\Debug\Q06 Wardrobe.pdb
