@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q05 Count Symbols", "Q05 Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q06 Wardrobe", "Q06 Wardrobe\Q06 Wardrobe.csproj", "{C42E12B3-E2B6-43BC-8793-1BC207E3EC55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q07 The V-Logger", "Q07 The V-Logger\Q07 The V-Logger.csproj", "{7AF7DFD1-620D-434E-A314-ABE26483189C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{C42E12B3-E2B6-43BC-8793-1BC207E3EC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C42E12B3-E2B6-43BC-8793-1BC207E3EC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C42E12B3-E2B6-43BC-8793-1BC207E3EC55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AF7DFD1-620D-434E-A314-ABE26483189C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF7DFD1-620D-434E-A314-ABE26483189C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF7DFD1-620D-434E-A314-ABE26483189C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF7DFD1-620D-434E-A314-ABE26483189C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

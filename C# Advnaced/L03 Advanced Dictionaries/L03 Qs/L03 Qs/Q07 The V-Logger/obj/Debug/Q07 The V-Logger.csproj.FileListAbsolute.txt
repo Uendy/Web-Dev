@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q07 The V-Logger\bin\Debug\Q07 The V-Logger.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q07 The V-Logger\bin\Debug\Q07 The V-Logger.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q07 The V-Logger\bin\Debug\Q07 The V-Logger.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q07 The V-Logger\obj\Debug\Q07 The V-Logger.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q07 The V-Logger\obj\Debug\Q07 The V-Logger.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q07 The V-Logger\obj\Debug\Q07 The V-Logger.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L03 Advanced Dictionaries\L03 Qs\L03 Qs\Q07 The V-Logger\obj\Debug\Q07 The V-Logger.pdb
