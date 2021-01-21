@@ -78,7 +78,7 @@ public class Program
             var currentUser = users[user].OrderByDescending(x => x.Value);
             foreach (var contest in currentUser)
             {
-                Console.WriteLine($"# {contest.Key} -> {contest.Value}");
+                Console.WriteLine($"#  {contest.Key} -> {contest.Value}");
             }
         }
     }
