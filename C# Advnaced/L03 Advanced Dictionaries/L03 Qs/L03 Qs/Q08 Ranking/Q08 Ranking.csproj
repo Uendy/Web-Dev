@@ -7,7 +7,7 @@
     <ProjectGuid>{72E286A5-6175-40A5-ABCE-38D975CD2CD3}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Q08_Ranking</RootNamespace>
-    <AssemblyName>Q08_Ranking</AssemblyName>
+    <AssemblyName>Q08 Ranking</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
