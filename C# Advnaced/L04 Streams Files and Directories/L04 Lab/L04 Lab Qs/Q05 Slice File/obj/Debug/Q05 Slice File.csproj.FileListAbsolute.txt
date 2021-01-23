@@ -1,0 +1,6 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Lab\L04 Lab Qs\Q05 Slice File\bin\Debug\Q05 Slice File.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Lab\L04 Lab Qs\Q05 Slice File\bin\Debug\Q05 Slice File.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Lab\L04 Lab Qs\Q05 Slice File\bin\Debug\Q05 Slice File.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Lab\L04 Lab Qs\Q05 Slice File\obj\Debug\Q05 Slice File.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Lab\L04 Lab Qs\Q05 Slice File\obj\Debug\Q05 Slice File.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Lab\L04 Lab Qs\Q05 Slice File\obj\Debug\Q05 Slice File.pdb
