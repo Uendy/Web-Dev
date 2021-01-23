@@ -1,0 +1,8 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Lab\L04 Lab Qs\Q04 Merge Files\bin\Debug\Input1.txt
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Lab\L04 Lab Qs\Q04 Merge Files\bin\Debug\Q04 Merge Files.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Lab\L04 Lab Qs\Q04 Merge Files\bin\Debug\Q04 Merge Files.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Lab\L04 Lab Qs\Q04 Merge Files\bin\Debug\Q04 Merge Files.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Lab\L04 Lab Qs\Q04 Merge Files\obj\Debug\Q04 Merge Files.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Lab\L04 Lab Qs\Q04 Merge Files\obj\Debug\Q04 Merge Files.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Lab\L04 Lab Qs\Q04 Merge Files\obj\Debug\Q04 Merge Files.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Lab\L04 Lab Qs\Q04 Merge Files\obj\Debug\Q04 Merge Files.pdb
