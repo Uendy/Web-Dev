@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Lab\L04 Lab Qs\Q06 Folder Size\bin\Debug\Q06 Folder Size.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Lab\L04 Lab Qs\Q06 Folder Size\bin\Debug\Q06 Folder Size.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Lab\L04 Lab Qs\Q06 Folder Size\bin\Debug\Q06 Folder Size.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Lab\L04 Lab Qs\Q06 Folder Size\obj\Debug\Q06 Folder Size.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Lab\L04 Lab Qs\Q06 Folder Size\obj\Debug\Q06 Folder Size.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Lab\L04 Lab Qs\Q06 Folder Size\obj\Debug\Q06 Folder Size.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Lab\L04 Lab Qs\Q06 Folder Size\obj\Debug\Q06 Folder Size.pdb
