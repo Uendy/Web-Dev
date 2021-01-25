@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Qs\L04 Qs\Q01 Even Lines\bin\Debug\Q01 Even Lines.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Qs\L04 Qs\Q01 Even Lines\bin\Debug\Q01 Even Lines.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Qs\L04 Qs\Q01 Even Lines\bin\Debug\Q01 Even Lines.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Qs\L04 Qs\Q01 Even Lines\obj\Debug\Q01 Even Lines.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Qs\L04 Qs\Q01 Even Lines\obj\Debug\Q01 Even Lines.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Qs\L04 Qs\Q01 Even Lines\obj\Debug\Q01 Even Lines.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Qs\L04 Qs\Q01 Even Lines\obj\Debug\Q01 Even Lines.pdb
