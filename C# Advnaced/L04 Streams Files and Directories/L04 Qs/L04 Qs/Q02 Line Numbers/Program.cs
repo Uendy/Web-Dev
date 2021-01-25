@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
+﻿using System.Linq;
 using System.IO;
 public class Program
 {
@@ -17,28 +16,11 @@ public class Program
 
             currentLine.Letters = line.Where(char.IsLetter).Count();
 
-            var punctuationMarks = new List<char> { '-', ',', '.', '!', '?', '\''};
-            currentLine.PunctuationMarks = FindPunctuationMarks(line, punctuationMarks);
-
+            currentLine.PunctuationMarks = line.Where(char.IsPunctuation).Count();
             
             File.AppendAllText("output.txt", $"Line {currentLine.Number}: {line} ({currentLine.Letters})({currentLine.PunctuationMarks})\n");
 
             lineNum++;
         }
-
-    }
-    public static int FindPunctuationMarks(string line, List<char> punctuationMarks)
-    {
-        int count = 0;
-        foreach (var symbol in line.ToCharArray())
-        {
-            bool isPunctuationMark = punctuationMarks.Contains(symbol);
-            if (isPunctuationMark)
-            {
-                count++;
-            }
-        }
-
-        return count;
     }
 }
