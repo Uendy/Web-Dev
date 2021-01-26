@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Qs\L04 Qs\Q04 Copy Binary File\bin\Debug\Q04 Copy Binary File.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Qs\L04 Qs\Q04 Copy Binary File\bin\Debug\Q04 Copy Binary File.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Qs\L04 Qs\Q04 Copy Binary File\bin\Debug\Q04 Copy Binary File.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Qs\L04 Qs\Q04 Copy Binary File\obj\Debug\Q04 Copy Binary File.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Qs\L04 Qs\Q04 Copy Binary File\obj\Debug\Q04 Copy Binary File.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Qs\L04 Qs\Q04 Copy Binary File\obj\Debug\Q04 Copy Binary File.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Qs\L04 Qs\Q04 Copy Binary File\obj\Debug\Q04 Copy Binary File.pdb
