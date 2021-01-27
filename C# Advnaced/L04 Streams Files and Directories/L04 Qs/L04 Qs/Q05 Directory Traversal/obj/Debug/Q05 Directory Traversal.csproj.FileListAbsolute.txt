@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Qs\L04 Qs\Q05 Directory Traversal\bin\Debug\Q05 Directory Traversal.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Qs\L04 Qs\Q05 Directory Traversal\bin\Debug\Q05 Directory Traversal.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Qs\L04 Qs\Q05 Directory Traversal\bin\Debug\Q05 Directory Traversal.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Qs\L04 Qs\Q05 Directory Traversal\obj\Debug\Q05 Directory Traversal.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Qs\L04 Qs\Q05 Directory Traversal\obj\Debug\Q05 Directory Traversal.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Qs\L04 Qs\Q05 Directory Traversal\obj\Debug\Q05 Directory Traversal.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L04 Streams Files and Directories\L04 Qs\L04 Qs\Q05 Directory Traversal\obj\Debug\Q05 Directory Traversal.pdb
