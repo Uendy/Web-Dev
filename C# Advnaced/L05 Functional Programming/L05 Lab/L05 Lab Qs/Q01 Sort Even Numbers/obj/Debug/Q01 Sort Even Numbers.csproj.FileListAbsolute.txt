@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q01 Sort Even Numbers\bin\Debug\Q01 Sort Even Numbers.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q01 Sort Even Numbers\bin\Debug\Q01 Sort Even Numbers.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q01 Sort Even Numbers\bin\Debug\Q01 Sort Even Numbers.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q01 Sort Even Numbers\obj\Debug\Q01 Sort Even Numbers.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q01 Sort Even Numbers\obj\Debug\Q01 Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q01 Sort Even Numbers\obj\Debug\Q01 Sort Even Numbers.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q01 Sort Even Numbers\obj\Debug\Q01 Sort Even Numbers.pdb
