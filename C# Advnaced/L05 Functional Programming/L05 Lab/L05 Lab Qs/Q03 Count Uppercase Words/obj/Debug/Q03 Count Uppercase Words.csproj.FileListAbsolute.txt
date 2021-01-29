@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q03 Count Uppercase Words\bin\Debug\Q03 Count Uppercase Words.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q03 Count Uppercase Words\bin\Debug\Q03 Count Uppercase Words.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q03 Count Uppercase Words\bin\Debug\Q03 Count Uppercase Words.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q03 Count Uppercase Words\obj\Debug\Q03 Count Uppercase Words.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q03 Count Uppercase Words\obj\Debug\Q03 Count Uppercase Words.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q03 Count Uppercase Words\obj\Debug\Q03 Count Uppercase Words.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q03 Count Uppercase Words\obj\Debug\Q03 Count Uppercase Words.pdb
