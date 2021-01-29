@@ -1,0 +1,6 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q04 Add VAT\bin\Debug\Q04 Add VAT.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q04 Add VAT\bin\Debug\Q04 Add VAT.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q04 Add VAT\bin\Debug\Q04 Add VAT.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q04 Add VAT\obj\Debug\Q04 Add VAT.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q04 Add VAT\obj\Debug\Q04 Add VAT.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q04 Add VAT\obj\Debug\Q04 Add VAT.pdb
