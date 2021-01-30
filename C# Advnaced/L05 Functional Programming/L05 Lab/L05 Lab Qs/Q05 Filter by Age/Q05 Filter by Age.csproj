@@ -7,7 +7,7 @@
     <ProjectGuid>{9CD73314-6F71-456B-81E7-B991DDDBB402}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Q05_Filter_by_Age</RootNamespace>
-    <AssemblyName>Q05_Filter_by_Age</AssemblyName>
+    <AssemblyName>Q05 Filter by Age</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

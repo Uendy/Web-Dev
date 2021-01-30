@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q03 Count Uppercase Words",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q04 Add VAT", "Q04 Add VAT\Q04 Add VAT.csproj", "{2ACB18BA-8E7F-4634-91D8-F1E9C0ED167A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q05 Filter by Age", "Q05 Filter by Age\Q05 Filter by Age.csproj", "{9CD73314-6F71-456B-81E7-B991DDDBB402}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{2ACB18BA-8E7F-4634-91D8-F1E9C0ED167A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2ACB18BA-8E7F-4634-91D8-F1E9C0ED167A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2ACB18BA-8E7F-4634-91D8-F1E9C0ED167A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CD73314-6F71-456B-81E7-B991DDDBB402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD73314-6F71-456B-81E7-B991DDDBB402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD73314-6F71-456B-81E7-B991DDDBB402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD73314-6F71-456B-81E7-B991DDDBB402}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
