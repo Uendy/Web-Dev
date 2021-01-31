@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q05 Filter by Age\bin\Debug\Q05 Filter by Age.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q05 Filter by Age\bin\Debug\Q05 Filter by Age.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q05 Filter by Age\bin\Debug\Q05 Filter by Age.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q05 Filter by Age\obj\Debug\Q05 Filter by Age.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q05 Filter by Age\obj\Debug\Q05 Filter by Age.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q05 Filter by Age\obj\Debug\Q05 Filter by Age.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Lab\L05 Lab Qs\Q05 Filter by Age\obj\Debug\Q05 Filter by Age.pdb
