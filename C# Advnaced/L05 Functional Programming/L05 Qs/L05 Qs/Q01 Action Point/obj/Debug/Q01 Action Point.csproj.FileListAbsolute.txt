@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q01 Action Point\bin\Debug\Q01 Action Point.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q01 Action Point\bin\Debug\Q01 Action Point.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q01 Action Point\bin\Debug\Q01 Action Point.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q01 Action Point\obj\Debug\Q01 Action Point.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q01 Action Point\obj\Debug\Q01 Action Point.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q01 Action Point\obj\Debug\Q01 Action Point.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q01 Action Point\obj\Debug\Q01 Action Point.pdb

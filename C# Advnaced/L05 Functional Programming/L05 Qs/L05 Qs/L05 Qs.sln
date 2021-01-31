@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q01 Action Point", "Q01 Action Point\Q01 Action Point.csproj", "{5F0B26C2-AE3F-43BB-B400-E4E77E6F3182}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q02 Knights of Honor", "Q02 Knights of Honor\Q02 Knights of Honor.csproj", "{0944937A-FB55-4959-93CC-17FCF21D40E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5F0B26C2-AE3F-43BB-B400-E4E77E6F3182}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F0B26C2-AE3F-43BB-B400-E4E77E6F3182}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F0B26C2-AE3F-43BB-B400-E4E77E6F3182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0944937A-FB55-4959-93CC-17FCF21D40E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0944937A-FB55-4959-93CC-17FCF21D40E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0944937A-FB55-4959-93CC-17FCF21D40E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0944937A-FB55-4959-93CC-17FCF21D40E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

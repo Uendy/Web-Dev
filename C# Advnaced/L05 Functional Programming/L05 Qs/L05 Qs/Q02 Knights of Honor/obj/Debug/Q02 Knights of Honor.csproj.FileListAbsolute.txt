@@ -1,0 +1,6 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q02 Knights of Honor\bin\Debug\Q02 Knights of Honor.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q02 Knights of Honor\bin\Debug\Q02 Knights of Honor.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q02 Knights of Honor\bin\Debug\Q02 Knights of Honor.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q02 Knights of Honor\obj\Debug\Q02 Knights of Honor.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q02 Knights of Honor\obj\Debug\Q02 Knights of Honor.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q02 Knights of Honor\obj\Debug\Q02 Knights of Honor.pdb

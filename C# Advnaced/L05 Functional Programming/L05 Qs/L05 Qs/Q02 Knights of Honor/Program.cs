@@ -6,8 +6,8 @@ public class Program
     {
         var inputs = Console.ReadLine().Split(new string[] { " " }, StringSplitOptions.RemoveEmptyEntries).ToList();
 
-        Action <string> print = x => Console.WriteLine(x);
+        Action<string> honorPrinter = x => Console.WriteLine($"Sir {x}");
 
-        inputs.ForEach(x => print(x));
+        inputs.ForEach(x => honorPrinter(x));
     }
 }
