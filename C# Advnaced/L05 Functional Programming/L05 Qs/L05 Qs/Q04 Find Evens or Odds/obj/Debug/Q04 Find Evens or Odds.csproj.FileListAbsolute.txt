@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q04 Find Evens or Odds\bin\Debug\Q04 Find Evens or Odds.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q04 Find Evens or Odds\bin\Debug\Q04 Find Evens or Odds.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q04 Find Evens or Odds\bin\Debug\Q04 Find Evens or Odds.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q04 Find Evens or Odds\obj\Debug\Q04 Find Evens or Odds.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q04 Find Evens or Odds\obj\Debug\Q04 Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q04 Find Evens or Odds\obj\Debug\Q04 Find Evens or Odds.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q04 Find Evens or Odds\obj\Debug\Q04 Find Evens or Odds.pdb
