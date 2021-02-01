@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q05 Applied Arithmetics\bin\Debug\Q05 Applied Arithmetics.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q05 Applied Arithmetics\bin\Debug\Q05 Applied Arithmetics.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q05 Applied Arithmetics\bin\Debug\Q05 Applied Arithmetics.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q05 Applied Arithmetics\obj\Debug\Q05 Applied Arithmetics.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q05 Applied Arithmetics\obj\Debug\Q05 Applied Arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q05 Applied Arithmetics\obj\Debug\Q05 Applied Arithmetics.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q05 Applied Arithmetics\obj\Debug\Q05 Applied Arithmetics.pdb
