@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q06 Reverse and Exclude\bin\Debug\Q06 Reverse and Exclude.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q06 Reverse and Exclude\bin\Debug\Q06 Reverse and Exclude.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q06 Reverse and Exclude\bin\Debug\Q06 Reverse and Exclude.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q06 Reverse and Exclude\obj\Debug\Q06 Reverse and Exclude.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q06 Reverse and Exclude\obj\Debug\Q06 Reverse and Exclude.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q06 Reverse and Exclude\obj\Debug\Q06 Reverse and Exclude.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q06 Reverse and Exclude\obj\Debug\Q06 Reverse and Exclude.pdb
