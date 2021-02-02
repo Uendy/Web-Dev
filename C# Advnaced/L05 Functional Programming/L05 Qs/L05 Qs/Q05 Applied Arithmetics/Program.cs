@@ -12,7 +12,7 @@ public class Program
         {
             if (command == "print")
             {
-                Action<List<int>> Printer = Print(list);
+                Action<List<int>> Printer = Print();
                 Printer(list);
             }
             else
@@ -22,8 +22,7 @@ public class Program
             }
         }
     }
-
-    public static Action<List<int>> Print(List<int> list)
+    public static Action<List<int>> Print()
     {
         return x => Console.WriteLine(string.Join(" ", x));
     }
