@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q08 Custom Comparator\bin\Debug\Q08 Custom Comparator.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q08 Custom Comparator\bin\Debug\Q08 Custom Comparator.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q08 Custom Comparator\bin\Debug\Q08 Custom Comparator.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q08 Custom Comparator\obj\Debug\Q08 Custom Comparator.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q08 Custom Comparator\obj\Debug\Q08 Custom Comparator.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q08 Custom Comparator\obj\Debug\Q08 Custom Comparator.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q08 Custom Comparator\obj\Debug\Q08 Custom Comparator.pdb
