@@ -7,7 +7,7 @@
     <ProjectGuid>{0B43956E-07B8-4989-B58F-A718292877E3}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Q10_Predicate_Party_</RootNamespace>
-    <AssemblyName>Q10_Predicate_Party_</AssemblyName>
+    <AssemblyName>Q10 Predicate Party!</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
