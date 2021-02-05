@@ -14,30 +14,47 @@ public class Program
         {
             var inputTokens = input.Split(new string[] { " ", ";" }, StringSplitOptions.RemoveEmptyEntries).ToList();
 
-            commands = ManipulateCommands(inputTokens, commands);
-
+            ManipulateCommands(inputTokens, commands);
         }
     }
-    public static List<Func<string, bool>> ManipulateCommands(List<string> inputTokens, List<Func<string, bool>> commands)
+    public static void ManipulateCommands(List<string> inputTokens, List<Func<string, bool>> commands)
     {
         var command = inputTokens[0];
         var filter = inputTokens[2];
+        string predicate;
         switch (filter)
         {
+            case "Starts":
+                predicate = inputTokens[5];
+                ForeachName(command, filter, predicate, commands);
+                break;
+            case "Ends":
+                predicate = inputTokens[5];
+                ForeachName(command, filter, predicate, commands);
+                break;
+            case "Length": // does not conatin token: with, so it is 4th index and need to convert it to int
+                predicate = inputTokens[4];
+                ForeachName(command, filter, predicate, commands);
+                break;
 
+            case "Contains": // does not conatin token: with, so it is 4th index
+                 predicate = inputTokens[4];
+                ForeachName(command, filter, predicate, commands);
+                break;
             default:
                 break;
         }
-        case "StartsWith":
-                ForeachName(command, guests, n => n.StartsWith(predicate));
-        break;
-            case "EndsWith":
-                ForeachName(command, guests, n => n.EndsWith(predicate));
-        break;
-            case "Length":
-                ForeachName(command, guests, n => n.Length == int.Parse(predicate));
-        break;
+    }
 
-        return commands;
+    public static void ForeachName(string command, string filter, string predicate, List<Func<string, bool>> commands)
+    {
+        if (command == "Add")
+        {
+
+        }
+        else // Remove
+        {
+        
+        }
     }
 }
