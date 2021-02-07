@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q12 TriFunction\bin\Debug\Q12 TriFunction.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q12 TriFunction\bin\Debug\Q12 TriFunction.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q12 TriFunction\bin\Debug\Q12 TriFunction.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q12 TriFunction\obj\Debug\Q12 TriFunction.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q12 TriFunction\obj\Debug\Q12 TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q12 TriFunction\obj\Debug\Q12 TriFunction.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L05 Functional Programming\L05 Qs\L05 Qs\Q12 TriFunction\obj\Debug\Q12 TriFunction.pdb
