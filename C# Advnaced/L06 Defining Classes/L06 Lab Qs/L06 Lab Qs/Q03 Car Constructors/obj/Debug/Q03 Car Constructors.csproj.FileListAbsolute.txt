@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Lab Qs\L06 Lab Qs\Q03 Car Constructors\bin\Debug\Q03 Car Constructors.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Lab Qs\L06 Lab Qs\Q03 Car Constructors\bin\Debug\Q03 Car Constructors.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Lab Qs\L06 Lab Qs\Q03 Car Constructors\bin\Debug\Q03 Car Constructors.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Lab Qs\L06 Lab Qs\Q03 Car Constructors\obj\Debug\Q03 Car Constructors.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Lab Qs\L06 Lab Qs\Q03 Car Constructors\obj\Debug\Q03 Car Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Lab Qs\L06 Lab Qs\Q03 Car Constructors\obj\Debug\Q03 Car Constructors.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Lab Qs\L06 Lab Qs\Q03 Car Constructors\obj\Debug\Q03 Car Constructors.pdb
