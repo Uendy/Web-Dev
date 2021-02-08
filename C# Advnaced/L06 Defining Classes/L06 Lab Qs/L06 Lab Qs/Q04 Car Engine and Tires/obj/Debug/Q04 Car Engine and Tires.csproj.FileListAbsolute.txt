@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Lab Qs\L06 Lab Qs\Q04 Car Engine and Tires\bin\Debug\Q04 Car Engine and Tires.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Lab Qs\L06 Lab Qs\Q04 Car Engine and Tires\bin\Debug\Q04 Car Engine and Tires.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Lab Qs\L06 Lab Qs\Q04 Car Engine and Tires\bin\Debug\Q04 Car Engine and Tires.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Lab Qs\L06 Lab Qs\Q04 Car Engine and Tires\obj\Debug\Q04 Car Engine and Tires.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Lab Qs\L06 Lab Qs\Q04 Car Engine and Tires\obj\Debug\Q04 Car Engine and Tires.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Lab Qs\L06 Lab Qs\Q04 Car Engine and Tires\obj\Debug\Q04 Car Engine and Tires.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Lab Qs\L06 Lab Qs\Q04 Car Engine and Tires\obj\Debug\Q04 Car Engine and Tires.pdb
