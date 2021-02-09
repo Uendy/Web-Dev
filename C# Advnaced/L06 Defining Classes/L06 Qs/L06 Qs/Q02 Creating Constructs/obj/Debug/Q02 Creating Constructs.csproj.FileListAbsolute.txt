@@ -1,0 +1,6 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q02 Creating Constructs\bin\Debug\Q02 Creating Constructs.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q02 Creating Constructs\bin\Debug\Q02 Creating Constructs.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q02 Creating Constructs\bin\Debug\Q02 Creating Constructs.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q02 Creating Constructs\obj\Debug\Q02 Creating Constructs.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q02 Creating Constructs\obj\Debug\Q02 Creating Constructs.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q02 Creating Constructs\obj\Debug\Q02 Creating Constructs.pdb
