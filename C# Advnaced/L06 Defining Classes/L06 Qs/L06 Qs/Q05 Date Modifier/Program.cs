@@ -6,8 +6,8 @@ public class Program
         var firstDate = Console.ReadLine();
         var secondDate = Console.ReadLine();
 
-        var dateTime = new DateModifier(firstDate, secondDate);
+        var dateTime = new DateModifier();
 
-        Console.WriteLine(dateTime.DayDifference(dateTime.FirstDate, dateTime.SecondDate));
+        Console.WriteLine(dateTime.DayDifference(firstDate, secondDate));
     }
 }
