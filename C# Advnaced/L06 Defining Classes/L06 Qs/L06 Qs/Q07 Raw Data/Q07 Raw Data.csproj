@@ -7,7 +7,7 @@
     <ProjectGuid>{A24F0F6F-DC10-447B-80A5-A0804153F623}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Q07_Raw_Data</RootNamespace>
-    <AssemblyName>Q07_Raw_Data</AssemblyName>
+    <AssemblyName>Q07 Raw Data</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Car.cs" />
+    <Compile Include="Cargo.cs" />
+    <Compile Include="Engine.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tire.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
