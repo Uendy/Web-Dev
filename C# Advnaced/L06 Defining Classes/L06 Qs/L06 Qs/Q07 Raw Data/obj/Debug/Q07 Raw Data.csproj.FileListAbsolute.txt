@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q07 Raw Data\bin\Debug\Q07 Raw Data.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q07 Raw Data\bin\Debug\Q07 Raw Data.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q07 Raw Data\bin\Debug\Q07 Raw Data.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q07 Raw Data\obj\Debug\Q07 Raw Data.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q07 Raw Data\obj\Debug\Q07 Raw Data.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q07 Raw Data\obj\Debug\Q07 Raw Data.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q07 Raw Data\obj\Debug\Q07 Raw Data.pdb
