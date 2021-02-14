@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q08 Car Salesman\bin\Debug\Q08 Car Salesman.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q08 Car Salesman\bin\Debug\Q08 Car Salesman.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q08 Car Salesman\bin\Debug\Q08 Car Salesman.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q08 Car Salesman\obj\Debug\Q08 Car Salesman.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q08 Car Salesman\obj\Debug\Q08 Car Salesman.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q08 Car Salesman\obj\Debug\Q08 Car Salesman.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q08 Car Salesman\obj\Debug\Q08 Car Salesman.pdb
