@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q09 Pokemon Trainer\bin\Debug\Q09 Pokemon Trainer.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q09 Pokemon Trainer\bin\Debug\Q09 Pokemon Trainer.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q09 Pokemon Trainer\bin\Debug\Q09 Pokemon Trainer.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q09 Pokemon Trainer\obj\Debug\Q09 Pokemon Trainer.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q09 Pokemon Trainer\obj\Debug\Q09 Pokemon Trainer.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q09 Pokemon Trainer\obj\Debug\Q09 Pokemon Trainer.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q09 Pokemon Trainer\obj\Debug\Q09 Pokemon Trainer.pdb
