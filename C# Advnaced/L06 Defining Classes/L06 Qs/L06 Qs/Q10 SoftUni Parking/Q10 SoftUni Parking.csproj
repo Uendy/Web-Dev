@@ -7,7 +7,7 @@
     <ProjectGuid>{9F06F31C-324F-4F42-A2AD-E1EF1FD287B5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Q10_SoftUni_Parking</RootNamespace>
-    <AssemblyName>Q10_SoftUni_Parking</AssemblyName>
+    <AssemblyName>Q10 SoftUni Parking</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Car.cs" />
+    <Compile Include="Parking.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
