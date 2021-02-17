@@ -1,0 +1,7 @@
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q10 SoftUni Parking\bin\Debug\Q10 SoftUni Parking.exe.config
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q10 SoftUni Parking\bin\Debug\Q10 SoftUni Parking.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q10 SoftUni Parking\bin\Debug\Q10 SoftUni Parking.pdb
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q10 SoftUni Parking\obj\Debug\Q10 SoftUni Parking.csprojAssemblyReference.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q10 SoftUni Parking\obj\Debug\Q10 SoftUni Parking.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q10 SoftUni Parking\obj\Debug\Q10 SoftUni Parking.exe
+C:\Users\Alexb\Desktop\Programming\Web-Dev\C# Advnaced\L06 Defining Classes\L06 Qs\L06 Qs\Q10 SoftUni Parking\obj\Debug\Q10 SoftUni Parking.pdb
